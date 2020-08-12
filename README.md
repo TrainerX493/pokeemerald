@@ -1,5 +1,7 @@
 # Pokémon Emerald
 
+DizzyEgg 3 branches combined.
+
 [![Build Status][travis-badge]][travis]
 
 [travis]: https://travis-ci.org/pret/pokeemerald
